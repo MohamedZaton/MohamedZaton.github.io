@@ -5,8 +5,8 @@
     "icon_path": "https://i.imgur.com/uYNZi0r.png",
     "html_go_path": "https://play.google.com/store/apps/details?id=com.pclink.dev.profileapp",
     "tech": [
-      "assets/icons/flutter_icon.svg"
-
+      "assets/icons/flutter_icon.svg",
+      "assets/icons/firebase.svg"
     ]
   },
   {
